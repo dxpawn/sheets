@@ -1,9 +1,17 @@
 # sheets
-there's nothing here besides some random music sheets
+there's nothing here besides some random (mostly bòleorào) music sheets
 
-you put my work into AI I will personally come and castrate you and your father and 
+you put my work into AI I will personally come and castrate you and your family
+
+--- 
+## Musescore links
+
+[Chuyện Người Đan Áo](https://musescore.com/user/101866876/scores/35848673)
+
+[Chuyện Ba Mùa Mưa](https://musescore.com/user/101866876/scores/36000329/s/kSg0WQ)
 
 ---
+
 note to self:
 - this piece still sounds decent after adding double sharps to every single note, which is weird
 - doing so would not result in F#m (original arranger's key) but rather F# Phrygian (very spanish)
@@ -29,4 +37,3 @@ note to self:
 
 what the fuck is it saying?
 
----
