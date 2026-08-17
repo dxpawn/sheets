@@ -10,9 +10,11 @@ you put my work into AI I will personally come and castrate you and your family
 
 [Chuyện Ba Mùa Mưa](https://musescore.com/user/101866876/scores/36000329/s/kSg0WQ)
 
+[Intro cho Người Yêu Cô Đơn](https://musescore.com/user/101866876/scores/36540266)
+
 ---
 
-note to self:
+note to self, regarding C3MM:
 - this piece still sounds decent after adding double sharps to every single note, which is weird
 - doing so would not result in F#m (original arranger's key) but rather F# Phrygian (very spanish)
 
