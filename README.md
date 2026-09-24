@@ -6,6 +6,8 @@ you put my work into AI I will personally come and castrate you and your family
 --- 
 ## Musescore links
 
+[Giọt Lệ Đài Trang](https://musescore.com/user/101866876/scores/38100548)
+
 [Chuyện Người Đan Áo](https://musescore.com/user/101866876/scores/35848673)
 
 [Chuyện Ba Mùa Mưa](https://musescore.com/user/101866876/scores/36000329/s/kSg0WQ)
